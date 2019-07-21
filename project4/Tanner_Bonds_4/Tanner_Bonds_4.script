@@ -1,0 +1,102 @@
+Script started on Fri 29 Mar 2019 05:43:25 PM CDT
+[?1034hbash-4.2$ ./Tanner_Bonds_4
+Banner id: 903466288
+Philosopher 0 is thinking
+Philosopher 1 is thinking
+Philosopher 2 is thinking
+Philosopher 4 is thinking
+Philosopher 3 is thinking
+Philosopher 2 is hungry 
+Philosopher 2 picked up Chopstick 2, can not eat with one chopstick.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 is hungry 
+Philosopher 4 picked up Chopstick 4, can not eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 3 is hungry 
+Philosopher 0 is hungry 
+Philosopher 2 put down Chopstick 2
+Philosopher 2 put down Chopstick 3
+Philosopher 2 is thinking
+Philosopher 3 picked up Chopstick 3, can not eat with one chopstick.
+Philosopher 1 is hungry 
+Philosopher 1 picked up Chopstick 1, can not eat with one chopstick.
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 2 is hungry 
+Philosopher 1 put down Chopstick 1
+Philosopher 1 put down Chopstick 2
+Philosopher 1 is thinking
+Philosopher 2 picked up Chopstick 2, can not eat with one chopstick.
+Philosopher 4 put down Chopstick 4
+Philosopher 4 put down Chopstick 0
+Philosopher 4 is thinking
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can not eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 4 is hungry 
+Philosopher 0 put down Chopstick 0
+Philosopher 0 put down Chopstick 1
+Philosopher 0 is thinking
+Philosopher 0 is hungry 
+Philosopher 0 picked up Chopstick 0, can not eat with one chopstick.
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 0 put down Chopstick 0
+Philosopher 0 put down Chopstick 1
+Philosopher 0 is thinking
+Philosopher 1 is hungry 
+Philosopher 1 picked up Chopstick 1, can not eat with one chopstick.
+Philosopher 3 put down Chopstick 3
+Philosopher 3 put down Chopstick 4
+Philosopher 3 is thinking
+Philosopher 4 picked up Chopstick 4, can not eat with one chopstick.
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 0 is hungry 
+Philosopher 4 put down Chopstick 4
+Philosopher 4 put down Chopstick 0
+Philosopher 4 is thinking
+Philosopher 0 picked up Chopstick 0, can not eat with one chopstick.
+Philosopher 4 is hungry 
+Philosopher 4 picked up Chopstick 4, can not eat with one chopstick.
+Philosopher 2 put down Chopstick 2
+Philosopher 2 put down Chopstick 3
+Philosopher 2 is thinking
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 3 is hungry 
+Philosopher 3 picked up Chopstick 3, can not eat with one chopstick.
+Philosopher 2 is hungry 
+Philosopher 1 put down Chopstick 1
+Philosopher 1 put down Chopstick 2
+Philosopher 1 is thinking
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+Philosopher 2 picked up Chopstick 2, can not eat with one chopstick.
+Philosopher 0 put down Chopstick 0
+Philosopher 0 put down Chopstick 1
+Philosopher 0 is thinking
+Philosopher 4 picked up Chopstick 0, now is eating with two chopsticks.
+Philosopher 0 is hungry 
+Philosopher 1 is hungry 
+Philosopher 1 picked up Chopstick 1, can not eat with one chopstick.
+Philosopher 4 put down Chopstick 4
+Philosopher 4 put down Chopstick 0
+Philosopher 4 is thinking
+Philosopher 3 picked up Chopstick 4, now is eating with two chopsticks.
+Philosopher 0 picked up Chopstick 0, can not eat with one chopstick.
+Philosopher 4 is hungry 
+Philosopher 3 put down Chopstick 3
+Philosopher 3 put down Chopstick 4
+Philosopher 3 is thinking
+Philosopher 2 picked up Chopstick 3, now is eating with two chopsticks.
+Philosopher 4 picked up Chopstick 4, can not eat with one chopstick.
+Philosopher 2 put down Chopstick 2
+Philosopher 2 put down Chopstick 3
+Philosopher 2 is thinking
+Philosopher 1 picked up Chopstick 2, now is eating with two chopsticks.
+Philosopher 1 put down Chopstick 1
+Philosopher 1 put down Chopstick 2
+Philosopher 1 is thinking
+Philosopher 0 picked up Chopstick 1, now is eating with two chopsticks.
+^C
+bash-4.2$ exit
+exit
+
+Script done on Fri 29 Mar 2019 05:44:39 PM CDT
